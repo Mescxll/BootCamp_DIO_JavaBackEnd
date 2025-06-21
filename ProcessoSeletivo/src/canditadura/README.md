@@ -1,4 +1,4 @@
-# Processo Seletivo Simples
+# Processo Seletivo Simples - Exercicio do BootCamp BackEnd Java da DIO
 Projeto Java que simula um processo seletivo básico, onde candidatos são avaliados com base no salário que desejam e na política de salário da empresa.
 
 ### Funcionalidades
